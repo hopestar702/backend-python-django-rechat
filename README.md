@@ -1,13 +1,3 @@
-# django-db-connection-pool
-
-*:star: Leave a star if django-db-connection-pool is helpful to you, or you like it, Thank you:smile:*
-
-MySQL & Oracle & PostgreSQL & JDBC (Oracle, OceanBase) connection pool backends of Django, 
-Be based on [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy). 
-Work fine in multiprocessing and multithreading django project.
-
-* [中文版](README_CN.md)
-
 ## Quickstart
 
 ### Installation
